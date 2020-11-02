@@ -29,7 +29,9 @@ header nav a {
 	border-width: 0px 0px 5px 0px;
 	border-color: #a2dcff;
  padding: 10px 2px;
- margin: 10px 4px;
+ margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
  text-decoration: none;
  font-weight: bold;
  color: #ff7e46;
